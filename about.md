@@ -9,7 +9,3 @@ My name is Naomi
 ### More Information
 
 Blah, blah, blah 
-
-### Contact me
-
-
