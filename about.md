@@ -1,11 +1,7 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-My name is Naomi 
-
-### More Information
-
-Blah, blah, blah 
+Hi-- I'm Canadian, currently Melbourne-based, for a joint PhD that moves me between Australia and Belgium. My research combines mechano-sensitive nanoparticles, biomaterials, and mechanobiology. Most days are spent in the lab. 
