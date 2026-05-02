@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi-- I'm Canadian, currently Melbourne-based, for a joint PhD that moves me between Australia and Belgium. My research combines mechano-sensitive nanoparticles, biomaterials, and mechanobiology. Most days are spent in the lab. 
+Hi-- I'm 
+
+![Image]({{ site.baseurl }}/images/naomisuniva.png)
