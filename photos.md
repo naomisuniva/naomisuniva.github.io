@@ -4,7 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-## South of France / Spain / Andorra | Summer 2024
+### South of France / Spain / Andorra | Summer 2024
 
 <img src="{{ site.baseurl }}/images/IMG_6231.JPG" alt="Image" width="400" />
 <img src="{{ site.baseurl }}/images/IMG_6232.JPG" alt="Image" width="400" />
