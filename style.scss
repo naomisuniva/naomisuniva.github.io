@@ -1,6 +1,3 @@
----
----
-
 //
 // IMPORTS
 //
@@ -120,7 +117,6 @@ img {
   color: $gray;
 }
 
-// Specify the color of the selection
 ::-moz-selection {
   color: $black;
   background: $lightGray;
@@ -130,8 +126,6 @@ img {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
     content: " ";
@@ -146,10 +140,6 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
-
 .wrapper-masthead {
   margin-bottom: 50px;
 }
@@ -163,10 +153,11 @@ img {
   }
 }
 
+/* ✅ UPDATED LOGO SECTION */
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;   // increased from 70px
+  height: 100px;  // increased from 70px
   margin-right: 15px;
 
   @include mobile {
@@ -176,7 +167,10 @@ img {
   }
 
   img {
+    width: 100%;
+    height: 100%;
     border-radius: 5px;
+    object-fit: cover;
   }
 }
 
@@ -212,7 +206,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -236,10 +230,6 @@ nav {
     }
   }
 }
-
-//
-// .main
-//
 
 .posts > .post {
   padding-bottom: 2em;
@@ -283,7 +273,5 @@ footer {
   text-align: center;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
