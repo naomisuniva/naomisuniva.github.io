@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![Image]({{ site.baseurl }}/images/000015.jpeg)
 <img src="{{ site.baseurl }}/images/000015.jpeg" alt="Image" width="400" />
 
 
