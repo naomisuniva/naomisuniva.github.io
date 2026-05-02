@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Hello world !
+layout:hey !
 ---
 
-Welcome to my funky blog 
+first post- 
+
