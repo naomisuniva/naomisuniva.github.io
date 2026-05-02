@@ -153,11 +153,11 @@ img {
   }
 }
 
-/* ✅ UPDATED LOGO SECTION */
+/* UPDATED LOGO SECTION */
 .site-avatar {
   float: left;
-  width: 100px;   // increased from 70px
-  height: 100px;  // increased from 70px
+  width: 200px;   // increased from 70px
+  height: 200px;  // increased from 70px
   margin-right: 15px;
 
   @include mobile {
