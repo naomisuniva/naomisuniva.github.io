@@ -1,6 +1,8 @@
 ---
-layout:hey !
+layout: post
+title: hey
 ---
+
 
 first post- 
 
