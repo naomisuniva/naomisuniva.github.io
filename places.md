@@ -5,10 +5,8 @@ permalink: /places/
 ---
 
 ### The Pyrenees - South of France / Spain / Andorra | Summer 2024
-My older brother came to visit me in Belgium, and we flew over to Toulouse.
 
 Toulouse, France
-Also known as \emph{la ville rose}.
 
 <img src="{{ site.baseurl }}/images/IMG_6231.JPG" alt="Image" width="400" />
 <img src="{{ site.baseurl }}/images/IMG_6232.JPG" alt="Image" width="400" />
@@ -16,7 +14,6 @@ Also known as \emph{la ville rose}.
 
 
 Pyrénées, France (Tarascon-sur-Ariège/Ax-les-Thermes)
-We took the train down South. 
 
 <img src="{{ site.baseurl }}/images/IMG_6320.JPG" alt="Image" width="400" />
 <img src="{{ site.baseurl }}/images/IMG_6329.JPG" alt="Image" width="400" />
