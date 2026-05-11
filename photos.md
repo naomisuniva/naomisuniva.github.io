@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photos
-permalink: /photos/
+title: Places
+permalink: /places/
 ---
 
 ### South of France / Spain / Andorra | Summer 2024
