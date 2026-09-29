@@ -71,13 +71,19 @@ SIPRI conference
 Took the bus/train back to Belgium from Portugal
 
 Lagos
-<img src="{{ site.baseurl }}/images/IMG_6901.jpeg" alt="Image" width="400" />
-<img src="{{ site.baseurl }}/images/IMG_6907.jpeg" alt="Image" width="400" />
+
+
+<img src="{{ site.baseurl }}/images/IMG_6901.JPG" alt="Image" width="400" />
+<img src="{{ site.baseurl }}/images/IMG_6907.JPG" alt="Image" width="400" />
 
 Seville 
+
+
 <img src="{{ site.baseurl }}/images/IMG_4115.jpeg" alt="Image" width="400" />
 
 Barcelona 
+
+
 <img src="{{ site.baseurl }}/images/IMG_4211.jpeg" alt="Image" width="400" />
 
 Lyon by night (view from my friend's apartment) 
