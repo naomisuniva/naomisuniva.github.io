@@ -61,3 +61,27 @@ Gozo island
 <img src="{{ site.baseurl }}/images/IMG_6635.JPG" alt="Image" width="400" />
 <img src="{{ site.baseurl }}/images/IMG_6637.JPG" alt="Image" width="400" />
 <img src="{{ site.baseurl }}/images/IMG_6673.JPG" alt="Image" width="400" />
+
+### Stockholm, Sweden | December 2024
+SIPRI conference
+<img src="{{ site.baseurl }}/images/IMG_3227.jpeg" alt="Image" width="400" />
+
+
+### Faro/Lagos, Seville, Barcelona, Lyon | December 2024
+Took the bus/train back to Belgium from Portugal
+
+Lagos
+<img src="{{ site.baseurl }}/images/IMG_6901.jpeg" alt="Image" width="400" />
+<img src="{{ site.baseurl }}/images/IMG_6907.jpeg" alt="Image" width="400" />
+
+Seville 
+<img src="{{ site.baseurl }}/images/IMG_4115.jpeg" alt="Image" width="400" />
+
+Barcelona 
+<img src="{{ site.baseurl }}/images/IMG_4211.jpeg" alt="Image" width="400" />
+
+Lyon by night (view from my friend's apartment) 
+<img src="{{ site.baseurl }}/images/IMG_4254.jpeg" alt="Image" width="400" />
+
+
+
